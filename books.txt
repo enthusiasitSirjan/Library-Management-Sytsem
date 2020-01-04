@@ -1,0 +1,4 @@
+B001,Harry Potter,JK Rowling,28,$2
+B002,Start with Why,Simon Sinek,9,$1.5
+B003,Summer Love,Subin Bhattarai,20,$1.5
+B004,Karnali Blues,Buddhisagar,24,$2
